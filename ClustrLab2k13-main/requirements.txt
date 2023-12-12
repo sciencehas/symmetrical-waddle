@@ -1,0 +1,13 @@
+poetry
+streamlit
+huggingface_hub
+tensorflow_hub
+tensorflow_text
+tensorflow_cpu
+plotly
+nltk
+pandas
+numpy
+scikit-learn
+transformers
+opentsne
