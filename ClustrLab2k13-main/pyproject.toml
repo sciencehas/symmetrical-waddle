@@ -1,4 +1,4 @@
-[tool.poetry]
+ =[tool.poetry]
 name = "clusteringwb"
 version = "0.1.0"
 description = "A tool for advanced clustering of text."
